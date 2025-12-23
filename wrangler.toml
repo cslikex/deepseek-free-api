@@ -1,0 +1,7 @@
+name = "deepseek-free-api"
+main = "src/index.js"
+compatibility_date = "2023-12-01"
+
+[vars]
+# 环境变量将在CloudFlare仪表板中配置
+DEEPSEEK_API_KEY = ""
